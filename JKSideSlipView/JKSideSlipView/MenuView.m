@@ -21,7 +21,7 @@
             result = object;
             break;
         }
-        NSLog(@"wxf_tcg");
+        NSLog(@"王西锋");
     }
     return result;
 }
