@@ -21,6 +21,7 @@
             result = object;
             break;
         }
+        NSLog(@"wxf_tcg");
     }
     return result;
 }
