@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
     // Do any additional setup after loading the view from its nib.
 }
 

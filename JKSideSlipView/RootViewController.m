@@ -30,6 +30,7 @@
         [self.navigationController pushViewController:next animated:YES];
     }];
     menu.items = @[@{@"title":@"1",@"imagename":@"1"},@{@"title":@"2",@"imagename":@"2"},@{@"title":@"3",@"imagename":@"3"},@{@"title":@"4",@"imagename":@"4"}];
+    NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
     [_sideSlipView setContentView:menu];
     [self.view addSubview:_sideSlipView];
     
@@ -37,6 +38,9 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
     // Dispose of any resources that can be recreated.
 }
 

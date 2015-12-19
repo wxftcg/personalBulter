@@ -22,6 +22,8 @@
             break;
         }
         NSLog(@"王西锋");
+         NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
+         NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
     }
     return result;
 }
@@ -38,6 +40,7 @@
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     return [_items count];
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
 }
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {

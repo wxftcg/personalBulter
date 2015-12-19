@@ -22,6 +22,8 @@
     self.window.rootViewController = self.navgationController;
     self.navgationController.navigationBarHidden = YES;
     [self.window makeKeyAndVisible];
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
+     NSLog(@"王西锋good，就这么一起来吧，好好地，快乐的");
     return YES;
 }
 
